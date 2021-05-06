@@ -1,1 +1,1 @@
-# phone-numbers
+# phone-numbers [![Build status](https://ci.appveyor.com/api/projects/status/yn56ly77r2p0t980/branch/main?svg=true)](https://ci.appveyor.com/project/barsich/phone-numbers/branch/main)
